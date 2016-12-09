@@ -1,0 +1,29 @@
+C:\Users\juoli\Desktop\Tester\bin\Debug\Tester.exe.config
+C:\Users\juoli\Desktop\Tester\bin\Debug\Tester.exe
+C:\Users\juoli\Desktop\Tester\bin\Debug\Tester.pdb
+C:\Users\juoli\Desktop\Tester\bin\Debug\FileManagement.dll
+C:\Users\juoli\Desktop\Tester\bin\Debug\Menu.dll
+C:\Users\juoli\Desktop\Tester\bin\Debug\FileManagement.pdb
+C:\Users\juoli\Desktop\Tester\bin\Debug\Menu.pdb
+C:\Users\juoli\Desktop\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\juoli\Desktop\Tester\obj\Debug\Tester.exe
+C:\Users\juoli\Desktop\Tester\obj\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\bin\Debug\Tester.exe.config
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\bin\Debug\Tester.exe
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\bin\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\bin\Debug\Menu.dll
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\bin\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\obj\Debug\Tester.exe
+D:\scuola\informatica\c# Library\Menu 2.0\Tester\obj\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\ConsoleMenu_Library\Menu\Tester\bin\Debug\Tester.exe.config
+D:\scuola\informatica\c# Library\ConsoleMenu\ConsoleMenu_Library\Menu\Tester\obj\Debug\Tester.exe
+D:\scuola\informatica\c# Library\ConsoleMenu\ConsoleMenu_Library\Menu\Tester\obj\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\bin\Debug\Tester.exe.config
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\obj\Debug\Tester.exe
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\obj\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\bin\Debug\Tester.exe
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\bin\Debug\Tester.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\bin\Debug\Menu.dll
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\bin\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache

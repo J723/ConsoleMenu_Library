@@ -1,0 +1,17 @@
+E:\programmazione\scuola\informatica\Librerie\c# Library\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+E:\programmazione\scuola\informatica\Librerie\c# Library\Menu\Menu\bin\Debug\Menu.dll
+E:\programmazione\scuola\informatica\Librerie\c# Library\Menu\Menu\bin\Debug\Menu.pdb
+E:\programmazione\scuola\informatica\Librerie\c# Library\Menu\Menu\obj\Debug\Menu.dll
+E:\programmazione\scuola\informatica\Librerie\c# Library\Menu\Menu\obj\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\Menu\Menu\bin\Debug\Menu.dll
+D:\scuola\informatica\c# Library\Menu\Menu\bin\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\Menu\Menu\obj\Debug\Menu.dll
+D:\scuola\informatica\c# Library\Menu\Menu\obj\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\Menu\Menu\Menu\obj\Debug\Menu.dll
+D:\scuola\informatica\c# Library\Menu\Menu\Menu\obj\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\Menu\Menu\Menu\bin\Debug\Menu.dll
+D:\scuola\informatica\c# Library\Menu\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\juoli\Desktop\Menu\bin\Debug\Menu.dll
+C:\Users\juoli\Desktop\Menu\bin\Debug\Menu.pdb
+C:\Users\juoli\Desktop\Menu\obj\Debug\Menu.dll
+C:\Users\juoli\Desktop\Menu\obj\Debug\Menu.pdb

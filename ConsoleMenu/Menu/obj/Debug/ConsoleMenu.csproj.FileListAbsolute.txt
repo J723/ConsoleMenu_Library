@@ -1,0 +1,12 @@
+C:\Users\juoli\Desktop\Menu\bin\Debug\Menu.dll
+C:\Users\juoli\Desktop\Menu\bin\Debug\Menu.pdb
+C:\Users\juoli\Desktop\Menu\obj\Debug\ConsoleMenu.csprojResolveAssemblyReference.cache
+C:\Users\juoli\Desktop\Menu\obj\Debug\Menu.dll
+C:\Users\juoli\Desktop\Menu\obj\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\bin\Debug\Menu.dll
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\bin\Debug\Menu.pdb
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\bin\Debug\System.Net.Http.dll
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\bin\Debug\System.Net.Http.xml
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\obj\Debug\ConsoleMenu.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\obj\Debug\Menu.dll
+D:\scuola\informatica\c# Library\ConsoleMenu\Menu\obj\Debug\Menu.pdb
